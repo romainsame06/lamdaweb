@@ -1,6 +1,3 @@
 controllers:
     resource: ../../src/Controller/
     type: annotation
-
-    ressource: ../../src/Controller/
-    type: annotation
